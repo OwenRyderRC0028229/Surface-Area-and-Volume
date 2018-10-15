@@ -63,6 +63,16 @@ namespace Surface_Area_and_Volume.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap snickers_ice_cream_cone_110ml {
+            get {
+                object obj = ResourceManager.GetObject("snickers-ice-cream-cone-110ml", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap sphere {
             get {
                 object obj = ResourceManager.GetObject("sphere", resourceCulture);
